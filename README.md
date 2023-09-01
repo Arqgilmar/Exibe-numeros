@@ -1,7 +1,7 @@
 # Intervalo numerico 🔴
 Este projeto diz os o intervalo numérico entre dois números digitados, pede dois números, mostra o resultado(os números inteiros entre os dois números digitados). No código foi utilizado a linguagem C. 
 
-[<img height="400" src="img/Calculadora.gif">](https://github.com/Arqgilmar/Calculadora/blob/main/img/Calculadora.gif) 
+[<img height="400" src="img/intervalonumerico.gif">](https://github.com/Arqgilmar/Exibe-numeros/blob/main/img/intervalonumerico.gif) 
 
 
 ## ⚡ Linguagem usada
